@@ -1,0 +1,1 @@
+print("waste of time")
